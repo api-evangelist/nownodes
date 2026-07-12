@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://nownodes.io/
 common:
+  - type: DomainSecurity
+    url: security/nownodes-domain-security.yml
+  - url: https://nownodes.io/blog/feed/
+    type: Blog
   - type: Website
     url: https://nownodes.io/
   - type: PublicAPIsListing
